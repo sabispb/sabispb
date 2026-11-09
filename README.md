@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Sabina! 👋
 
-<!--
-**sabispb/sabispb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist with a background in biomedical sciences and professional experience in genetic diagnostics, pharmacovigilance and healthcare data.
 
-Here are some ideas to get you started:
+Currently working at Hospital del Mar on clinical information extraction using NLP and Large Language Models (LLMs).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in applying Data Science, Machine Learning and Generative AI to real-world challenges, especially in healthcare.
+
+**Hackathons**
+- **GenAI Health Hack – Hospital Clínic:** Developed an automated pharmacovigilance report generation pipeline using n8n, LLMs and AWS (Bedrock, S3).
+- **NASA Space Apps Challenge:** Participated in a collaborative technology and innovation challenge.
+
+**Connect with me:** [LinkedIn](https://www.linkedin.com/sabina-planas-bonell)
